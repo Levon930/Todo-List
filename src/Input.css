@@ -1,0 +1,10 @@
+.input {
+  display: inline-block;
+  margin: 0 auto;
+  background-color: red;
+}
+.checked {
+  text-decoration: line-through;
+  color: #a0a0a0;
+  font-style: italic;
+}
